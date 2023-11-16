@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Rubik:wght@400;700&display=swap');
 body {
     display: flex;
     margin: 0;
@@ -152,7 +153,7 @@ a {
 .slider_item_content > h2 {
     display: flex;
     height: 52px;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     flex-direction: column;
     justify-content: center;
     flex-shrink: 0;
@@ -170,7 +171,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -183,7 +184,7 @@ a {
     flex-direction: column;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -196,7 +197,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -210,7 +211,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -224,7 +225,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
@@ -256,7 +257,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #99A2AA;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -272,7 +273,7 @@ a {
     flex-shrink: 0;
     color: #0E2F4B;
     text-align: center;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -308,7 +309,7 @@ a {
     padding: 2px 42.85px 0 0;
     height: 60px;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -321,7 +322,7 @@ a {
     flex-direction: column;
     justify-content: center;
     color: #0E2F4B;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -334,7 +335,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -361,7 +362,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -377,7 +378,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
@@ -391,7 +392,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
@@ -411,7 +412,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #F8F8F8;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -425,7 +426,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #99A2AA;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -451,7 +452,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #6C757D;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -470,7 +471,7 @@ a {
     background: #FDC13D;
     color: #0E2F4B;
     text-align: center;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -495,7 +496,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -535,7 +536,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #99A2AA;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -548,7 +549,7 @@ a {
     flex-direction: column;
     justify-content: center;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -560,7 +561,7 @@ a {
     flex-direction: column;
     justify-content: center;
     color: #0E2F4B;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -594,7 +595,7 @@ a {
     flex-direction: column;
     justify-content: center;
     color: #99A2AA;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 700;
@@ -614,7 +615,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #FFF;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 48px;
     font-style: normal;
     font-weight: 700;
@@ -628,7 +629,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Open Sans", serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -642,7 +643,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #0E2F4B;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 17px;
     font-style: normal;
     font-weight: 700;
@@ -666,7 +667,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #FFF;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
@@ -678,7 +679,7 @@ a {
     justify-content: center;
     flex-shrink: 0;
     color: #99A2AA;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -731,7 +732,7 @@ a {
     flex-direction: column;
     justify-content: center;
     color: #757575;
-    font-family: 'Rubik', serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -759,7 +760,7 @@ a {
     flex-shrink: 0;
     color: #99A2AA;
     text-align: center;
-    font-family: "Rubik", serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
